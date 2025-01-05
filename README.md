@@ -1,2 +1,0 @@
-# nutrifd-ui
-webpage
